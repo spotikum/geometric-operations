@@ -1,3 +1,4 @@
 - [pdf-file-pengolah-citra](https://drive.google.com/file/d/1Bde3iBou1LxSuW1FFoS6cqqKFZR_6VnB/view?usp=sharing)
 - [crop-an-image-in-python](https://www.askpython.com/python/examples/crop-an-image-in-python)
 - [how-to-flip-an-image-horizontally-or-vertically-in-python](https://www.geeksforgeeks.org/how-to-flip-an-image-horizontally-or-vertically-in-python/)
+- [how-to-rotate-an-image-using-python](https://www.geeksforgeeks.org/how-to-rotate-an-image-using-python/)
