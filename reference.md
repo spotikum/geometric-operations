@@ -2,3 +2,4 @@
 - [crop-an-image-in-python](https://www.askpython.com/python/examples/crop-an-image-in-python)
 - [how-to-flip-an-image-horizontally-or-vertically-in-python](https://www.geeksforgeeks.org/how-to-flip-an-image-horizontally-or-vertically-in-python/)
 - [how-to-rotate-an-image-using-python](https://www.geeksforgeeks.org/how-to-rotate-an-image-using-python/)
+- [crop-image-with-opencv-python](https://www.geeksforgeeks.org/crop-image-with-opencv-python/)
