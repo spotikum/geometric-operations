@@ -16,6 +16,10 @@ rotated_image2 = Original_Image.transpose(Image.ROTATE_90)
 # This Will Rotate Image By 60 Degree
 rotated_image3 = Original_Image.rotate(60)
 
-rotated_image1.show()
-rotated_image2.show()
-rotated_image3.show()
+rotated_image1.save("output/rotate_180.png")
+rotated_image2.save("output/rotate_90.png")
+rotated_image3.save("output/rotate_60.png")
+
+# rotated_image1.show()
+# rotated_image2.show()
+# rotated_image3.show()
